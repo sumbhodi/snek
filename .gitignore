@@ -1,0 +1,35 @@
+# Operating System Files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+*~
+
+# IDE and Editor Files
+.vscode/
+.idea/
+*.swp
+*.swo
+*.swn
+.project
+.classpath
+.settings/
+
+# Build and Distribution
+dist/
+build/
+*.apk.bak
+*.keystore
+local.properties
+
+# Temporary Files
+*.tmp
+*.log
+*.cache
+
+# Node modules (if using any build tools)
+node_modules/
+package-lock.json
