@@ -2,9 +2,7 @@
 
 A modern, feature-rich implementation of the classic Snake game with advanced gameplay mechanics and visual effects.
 
-## 🎮 [Play Now](https://sumbhodi.github.io/snek/)
-
-![Snake Game Screenshot](assets/images/pixleated.png)
+> **🚀 Live Demo Coming Soon!** Enable GitHub Pages in repo Settings → Pages to play online at `https://sumbhodi.github.io/snek/`
 
 ## ✨ Features
 
@@ -72,8 +70,12 @@ snek/
 
 ## 🚀 Getting Started
 
-### Play Online
-Visit [https://sumbhodi.github.io/snek/](https://sumbhodi.github.io/snek/) to play instantly in your browser.
+### Play Online (After Enabling GitHub Pages)
+1. Go to repo **Settings** → **Pages**
+2. Under "Source", select your main branch
+3. Click **Save**
+4. Wait 1-2 minutes for deployment
+5. Visit `https://sumbhodi.github.io/snek/` to play!
 
 ### Run Locally
 1. Clone the repository:
