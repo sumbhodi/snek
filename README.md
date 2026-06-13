@@ -8,6 +8,10 @@ Reach 108 and the snake stops dying.
 
 Open `index.html` in any browser. That's the whole install.
 
+## Android
+
+Grab the APK from [Releases](https://github.com/sumbhodi/snek/releases/latest) — Android 7+, runs on Chromebooks and tablets. Allow installs from unknown sources. (The browser version above needs no install at all.)
+
 ## Controls
 
 - Arrow keys or WASD — move
